@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "关于写博客这件事情"
-date:   2021-07-18 15:13:17 +0800
+date:   2022-07-18 15:13:17 +0800
 categories: diary
 location: Shaanxi, China
 description: 想做了半年，终于开始动手了。
